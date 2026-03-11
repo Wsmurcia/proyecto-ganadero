@@ -1,3 +1,4 @@
+---
 # Sistema de Gestión de Producción de Leche
 
 ## Descripción del sistema
@@ -59,7 +60,7 @@ Métodos:
 - calcularProduccion()
 - mostrarProduccion()
 
----
+
 /-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
 
 (°-°) Cómo ejecutar el programa:
@@ -70,4 +71,4 @@ Pasos:
 1. Clonar o descargar el repositorio.
 2. Abrir la carpeta del proyecto.
 3. Ejecutar el archivo principal.
-
+---
