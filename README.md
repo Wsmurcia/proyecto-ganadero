@@ -16,7 +16,8 @@ vacas y su producción.
 
 El sistema está compuesto por las siguientes clases:
 
-(°-°) Clase Vaca
+(°-°) Clase Vaca:
+
 Representa cada vaca registrada en la finca.
 
 Atributos:
@@ -33,7 +34,8 @@ Métodos:
 - agregarProduccion()
 - calcularProduccionTotal()
 
-(°-°) Clase Estado
+(°-°) Clase Estado:
+
 Permite registrar el estado actual de la vaca.
 
 Atributos:
@@ -44,7 +46,8 @@ Métodos:
 - mostrarEstado()
 - cambiarEstado()
 
-(°-°) Clase ProduccionLeche
+(°-°) Clase ProduccionLeche:
+
 Representa el registro de producción de leche en un día específico.
 
 Atributos:
@@ -58,9 +61,10 @@ Métodos:
 
 ---
 /-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
-(°-°) Cómo ejecutar el programa
 
-Para ejecutar el programa necesitas tener instalado PY (python).
+(°-°) Cómo ejecutar el programa:
+
+Para ejecutar el programa debe  tener primero instalado el  PY (python).
 
 Pasos:
 1. Clonar o descargar el repositorio.
