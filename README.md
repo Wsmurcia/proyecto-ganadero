@@ -10,7 +10,7 @@ registrada en el día (mañana y tarde). También calcula la producción total d
 El sistema funciona mediante un menú interactivo que permite consultar la información de las
 vacas y su producción.
 
-/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/-//-//-//-//-//-/
+/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/
 
 ## Estructura del proyecto
 
